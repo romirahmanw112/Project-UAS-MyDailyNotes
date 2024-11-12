@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "161435869848",
+    "project_id": "mydailynotes-f189d",
+    "storage_bucket": "mydailynotes-f189d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161435869848:android:aab1ad12ebfafed9ed66ed",
+        "android_client_info": {
+          "package_name": "com.example.mymydailynotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCXJwX04--1WgpL6WiEIEHgOEXUfpgXFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
